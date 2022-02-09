@@ -1,0 +1,30 @@
+{
+    "domains":{
+        "personType":[
+            {"value":"1","text":"人口1"},
+            {"value":"2","text":"人口2"}
+        ],
+		"csType":[
+            {"value":"1","text":"测试类型1"},
+			{"value":"2","text":"测试类型2"},
+            {"value":"3","text":"测试类型3"},
+            {"value":"4","text":"测试类型4"},
+            {"value":"5","text":"测试类型5"}
+        ]
+    },
+    "formdesc":{
+        "main":{
+            "label":"人员信息",
+            "name":"main",
+            "primarykey":"id",
+            "fields":[
+                {"label":"文字","name":"name","type":"string:0/12","view":0,"required":1},
+                {"label":"单选","name":"personType","type":"select:domain/personType","view":0,"required":1},
+				{"label":"多选","name":"csType","type":"select_multi:domain/csType","view":0,"required":0},
+                {"label":"是否","name":"isYes","type":"bool:0/1","view":0,"required":0},
+                {"label":"日期","name":"date","type":"date:yyyy-MM-dd","view":0,"required":0},
+				{"label":"备注","name":"remark","type":"memo:0/200","view":0,"required":0}
+            ]
+        }
+    }
+}
