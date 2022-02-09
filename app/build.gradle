@@ -5,7 +5,7 @@ android {
     buildToolsVersion "28.0.3"
 
     defaultConfig {
-        applicationId "com.arronyee.form"
+        applicationId "com.arronyee.sample"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
