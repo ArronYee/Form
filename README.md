@@ -4,7 +4,6 @@
 
 <!-- [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) -->
 
-![img](https://github.com/ArronYee/GearView/blob/main/SVID_20220128_111743_1.gif)
 
 In this folder repository contains:
 
