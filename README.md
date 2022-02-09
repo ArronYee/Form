@@ -16,12 +16,12 @@ In this folder repository contains:
 
 ## Table of Contents
 
-- [Partial code description](#Partial code description)
+- [Partial-code-description](#Partial-code-description)
 - [Install](#install)
-- [Related Mentality](#Related Mentality)
-- [To be improved](#To be improved)
+- [Related-Mentality](#Related-Mentality)
+- [To-be-improved](#To-be-improved)
 
-## Partial code description
+## Partial-code-description
 
 ```sh
 {
@@ -122,7 +122,7 @@ In your needed module
 	}
 ```
 
-## Related Mentality
+## Related-Mentality
 
 This Sample use mvp frame,but in the "form", is more likely mvvm,
 
@@ -159,7 +159,7 @@ i use
 
 Ensure immediate response between them。
 
-## To be improved
+## To-be-improved
 In my own business project,it also support "Cordition","ExtraFile",but it is inconvenient to package into Library,it has map or upload file need to be done,so let me think and it will be improved in the future。
 
 
