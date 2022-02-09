@@ -37,7 +37,7 @@ public class AddDataActivity extends AppCompatActivity {
     @Override
     protected void attachBaseContext(Context newBase) {
         super.attachBaseContext(newBase);
-        MvpManager.bindPresenter(this, "com.arronyee.form.presenter.AddDataActivityPresenter");
+        MvpManager.bindPresenter(this, "com.arronyee.sample.presenter.AddDataActivityPresenter");
     }
 
     public ViewGroup getContainer(){

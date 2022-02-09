@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/form.iml" filepath="$PROJECT_DIR$/.idea/modules/form.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/form.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/form.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/form/form.form.iml" filepath="$PROJECT_DIR$/.idea/modules/form/form.form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Form.iml" filepath="$PROJECT_DIR$/.idea/modules/Form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Form.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Form.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/form/Form.form.iml" filepath="$PROJECT_DIR$/.idea/modules/form/Form.form.iml" />
     </modules>
   </component>
 </project>

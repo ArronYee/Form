@@ -28,7 +28,7 @@ android {
 
 dependencies {
 
-    implementation project(':form')
+    api project(':form')
     implementation "com.google.code.gson:gson:2.7"
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
