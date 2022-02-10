@@ -55,7 +55,7 @@ In this folder repository contains:
 }
 ```
 
-This show you how to generate a form include text-input,single or multi selector,boolean,date,or multi-line. the "domains" array is "select:domain/xxxxx" the select item.
+This show you how to generate a form include text-input,single or multi selector,boolean,date,or multi-line. the "domains" array is "select:domain/xxxxx" the selected item.
 
 ```sh
  isr = new InputStreamReader(addDataActivity.getAssets().open("cxry.json"), "UTF-8");
@@ -102,7 +102,7 @@ When we want get result,validateAll() and getSubmitStr(), you can get your resul
 
 ```
 
-your also can get your pre-data into form.and then form has the default value.
+Also you can get your pre-data into form.and then form has the default value.
 
 ## Install
 
@@ -126,7 +126,7 @@ In your needed module
 
 ## Related-Mentality
 
-This Sample use mvp frame,but in the "form", is more likely mvvm,
+This Sample use mvp frame,but in the "form", It's more likely mvvm,
 
 i use
 ```sh
